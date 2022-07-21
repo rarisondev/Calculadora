@@ -41,4 +41,22 @@ table td {
     background-color:#3a3c3c;
 }
 
+.ac { 
+    background-color: rgb(69, 22, 186)
+}
+
+.ac:hover { 
+    background-color: rgb(93, 49, 204);
+}
+
+.operacoes { 
+    background-color: rgb(92, 43, 215);
+}
+
+.operacoes:hover { 
+    background-color: rgb(133, 92, 238);
+}
+
+
+
 
