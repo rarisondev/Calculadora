@@ -6,6 +6,8 @@ Calculadora
 Html5, CSS3 and JavaScript components
 
 ## Let's go 👨‍💻
+![Calculadora (2)](https://user-images.githubusercontent.com/83453859/180615644-d306264a-91e6-46e4-afbe-8eeaa3792913.JPG)
+
 Você pode ver o projeto através do link abaixo 👇 <br><br>
 [Clique aqui](https://rarisondev.github.io/Calculadora)
 
